@@ -10,3 +10,5 @@ Streamlit → for data upload, filtering & text insights
 Power BI → for visual analytics & storytelling
 
 Cloud Deployment → for scalability & remote access
+
+HI,this is khushi
